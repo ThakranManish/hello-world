@@ -1,2 +1,3 @@
 this is testing not a file adding this to master branch
 i am doing changes 
+adding 3rd line through github server
